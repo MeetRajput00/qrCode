@@ -1,0 +1,36 @@
+body{
+    background-color: #d5e1ef;
+}
+.centerDiv{
+    background-color: white;
+    height: 450px;
+    width: 350px;
+    padding: 10px;
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    border-radius:16px;
+    -moz-border-radius:16px;
+    -webkit-border-radius:16px;
+}
+.centerDiv .qrCode{
+    margin-top: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:16px;
+    -moz-border-radius:16px;
+    -webkit-border-radius:16px;
+    height: 280px;
+    width: 340px;
+}
+.centerDiv .bigText{
+    text-align: center;
+    font-family: 'Walter Turncoat';
+    opacity: 90%;
+}
+.centerDiv .smallText{
+    font-family: 'Walter Turncoat';
+    text-align: center;
+    opacity: 70%;
+}
